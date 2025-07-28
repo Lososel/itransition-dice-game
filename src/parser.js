@@ -17,6 +17,11 @@ export class DiceParser {
                 }
                 return parsed;
             });
+            if (faces.length !== 6) {
+                throw new Error(
+                    `Dice at position ${idx+1} must have exactly 6 faces. Example: 2,2,4,4,9,9`
+                );
+            }
             if (faces.length < 1) {
                 throw new Error(
                     `Dice at position ${idx+1} has no faces. Each die must have at least one face. Example: 2,2,4,4,9,9`
