@@ -1,0 +1,2 @@
+# Welcome to a generalized non-transitive dice game
+https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F743BF4FD29705F2A%21s10e8615eafe84dd79684a1c22b792b1e%3Fithint%3Dvideo%26e%3D8J3i5k%26migratedtospo%3Dtrue&sw=bypassConfig&cid=743BF4FD29705F2A&id=743BF4FD29705F2A%21s10e8615eafe84dd79684a1c22b792b1e&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy83NDNiZjRmZDI5NzA1ZjJhL0VWNWg2QkRvcjlkTmxvU2h3aXQ1S3g0QnFLeFN0eUtWUE5fUmF1cFNDUmNDZHc%5FZT04SjNpNWs&v=photos
